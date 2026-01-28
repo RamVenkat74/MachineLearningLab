@@ -1,0 +1,12 @@
+text,sentiment
+text,sentiment
+good teaching methods,Positive
+excellent explanation,Positive
+very helpful classes,Positive
+good and clear lectures,Positive
+faculty is supportive,Positive
+poor explanation,Negative
+bad teaching style,Negative
+very confusing lectures,Negative
+not helpful,Negative
+boring classes,Negative
